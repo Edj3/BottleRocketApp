@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BottleRocketApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_info">Info</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="store_displayed">Name of Store Displayed</string>
+    <string name="store_logo">Store Logo</string>
+    <string name="store_phone">111 111 1111</string>
+    <string name="very_cool">Very Cool</string>
+    <string name="ok">OK</string>
+    <string name="cache_unavailable">Cache Unavailable</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
